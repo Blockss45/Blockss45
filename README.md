@@ -1,1 +1,1 @@
-服务器ip:mc3.mccsm.cn:28160
+Minecraft Server IP:mc3.mccsm.cn:28160
